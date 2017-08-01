@@ -1,0 +1,21 @@
+{
+    "name": "testAccelerometer",
+    "version": "0.0.0",
+    "description": "",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "README.md",
+        "accelerometer.cpp",
+        "accelerometer.ts",
+        "shims.d.ts",
+        "enums.d.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false
+}
